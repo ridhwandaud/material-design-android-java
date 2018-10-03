@@ -12,5 +12,5 @@ Finish project of material design ( Currently use dark theme )
 [MD 103: Theming with color, shape, motion, and type](https://codelabs.developers.google.com/codelabs/mdc-103-java/#0)
 - Discover how Material Components for Android make it easy to differentiate your product and express your brand through design in Java.
 
-[MD 104: Advanced components]((https://codelabs.developers.google.com/codelabs/mdc-104-java/#0)
+[MD 104: Advanced components](https://codelabs.developers.google.com/codelabs/mdc-104-java/#0)
 - Take your design up a notch and learn to use our advanced component backdrop menu in Java.
